@@ -22,7 +22,7 @@
       "items_in_stock": 2,
       "color": "black",
       "brand": "Boesendorfer",
-      "image": "http://localhost:4000/hojtalere/boesendorfer_vcs_wall.gif"
+      "image": "https://hifi-api-uytm.onrender.com//hojtalere/boesendorfer_vcs_wall.gif"
     },
     {
       "id": 1002,
@@ -32,7 +32,7 @@
       "items_in_stock": 2,
       "color": "yellow",
       "brand": "epos",
-      "image": "http://localhost:4000/hojtalere/epos_m5.gif"
+      "image": "https://hifi-api-uytm.onrender.com//hojtalere/epos_m5.gif"
     },
     {
       "id": 1003,
@@ -42,7 +42,7 @@
       "items_in_stock": 2,
       "color": "wood",
       "brand": "Harbeth",
-      "image": "http://localhost:4000/hojtalere/harbeth_hl7es2.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//hojtalere/harbeth_hl7es2.jpg"
     },
     {
       "id": 1004,
@@ -52,7 +52,7 @@
       "items_in_stock": 2,
       "color": "wood",
       "brand": "Harbeth",
-      "image": "http://localhost:4000/hojtalere/harbeth_monitor30.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//hojtalere/harbeth_monitor30.jpg"
     },
     {
       "id": 1005,
@@ -62,7 +62,7 @@
       "items_in_stock": 2,
       "color": "wood",
       "brand": "Harbeth",
-      "image": "http://localhost:4000/hojtalere/harbeth_p3es2.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//hojtalere/harbeth_p3es2.jpg"
     },
     {
       "id": 1006,
@@ -72,7 +72,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Creek",
-      "image": "http://localhost:4000/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg"
     },
     {
       "id": 1007,
@@ -82,7 +82,7 @@
       "items_in_stock": 2,
       "color": "black",
       "brand": "Parasound",
-      "image": "http://localhost:4000/forforstaerkere/parasound_classic7100.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//forforstaerkere/parasound_classic7100.jpg"
     },
     {
       "id": 1008,
@@ -92,7 +92,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Parasound",
-      "image": "http://localhost:4000/forforstaerkere/parasound_halop3.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//forforstaerkere/parasound_halop3.jpg"
     },
     {
       "id": 1009,
@@ -102,7 +102,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Project",
-      "image": "http://localhost:4000/forforstaerkere/Project_prebox.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//forforstaerkere/Project_prebox.jpg"
     },
     {
       "id": 1010,
@@ -112,7 +112,7 @@
       "items_in_stock": 2,
       "color": "blue",
       "brand": "Project",
-      "image": "http://localhost:4000/pladespillere/Pro_ject_Debut_3_bl.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//pladespillere/Pro_ject_Debut_3_bl.jpg"
     },
     {
       "id": 1011,
@@ -122,7 +122,7 @@
       "items_in_stock": 2,
       "color": "red",
       "brand": "Project",
-      "image": "http://localhost:4000/pladespillere/Pro_ject_Debut_III_red_1.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//pladespillere/Pro_ject_Debut_III_red_1.jpg"
     },
     {
       "id": 1012,
@@ -132,7 +132,7 @@
       "items_in_stock": 2,
       "color": "yellow",
       "brand": "Project",
-      "image": "http://localhost:4000/pladespillere/Pro_ject_Debut_III_yellow_1.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//pladespillere/Pro_ject_Debut_III_yellow_1.jpg"
     },
     {
       "id": 1013,
@@ -142,7 +142,7 @@
       "items_in_stock": 2,
       "color": "black",
       "brand": "Project",
-      "image": "http://localhost:4000/pladespillere/Pro_ject_rpm_5.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//pladespillere/Pro_ject_rpm_5.jpg"
     },
     {
       "id": 1014,
@@ -152,7 +152,7 @@
       "items_in_stock": 2,
       "color": "black",
       "brand": "Project",
-      "image": "http://localhost:4000/pladespillere/Pro_ject_rpm10.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//pladespillere/Pro_ject_rpm10.jpg"
     },
     {
       "id": 1015,
@@ -162,7 +162,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Creek",
-      "image": "http://localhost:4000/int_forstaerkere/creek_a50I.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//int_forstaerkere/creek_a50I.jpg"
     },
     {
       "id": 1016,
@@ -172,7 +172,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Creek",
-      "image": "http://localhost:4000/int_forstaerkere/creek_classic5350SE.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//int_forstaerkere/creek_classic5350SE.jpg"
     },
     {
       "id": 1017,
@@ -182,7 +182,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Creek",
-      "image": "http://localhost:4000/int_forstaerkere/creek_destinyamp.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//int_forstaerkere/creek_destinyamp.jpg"
     },
     {
       "id": 1018,
@@ -192,7 +192,7 @@
       "items_in_stock": 2,
       "color": "black",
       "brand": "Manley",
-      "image": "http://localhost:4000/int_forstaerkere/manley_snapper.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//int_forstaerkere/manley_snapper.jpg"
     },
     {
       "id": 1019,
@@ -202,7 +202,7 @@
       "items_in_stock": 2,
       "color": "black",
       "brand": "Manley",
-      "image": "http://localhost:4000/int_forstaerkere/Manley_Stingray.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//int_forstaerkere/Manley_Stingray.jpg"
     },
     {
       "id": 1020,
@@ -212,7 +212,7 @@
       "items_in_stock": 2,
       "color": "white",
       "brand": "Joldia",
-      "image": "http://localhost:4000/roer_forstaerkere/jolida_JD102b.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//roer_forstaerkere/jolida_JD102b.jpg"
     },
     {
       "id": 1021,
@@ -222,7 +222,7 @@
       "items_in_stock": 2,
       "color": "black",
       "brand": "Joldia",
-      "image": "http://localhost:4000/roer_forstaerkere/jolida_JD202a.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//roer_forstaerkere/jolida_JD202a.jpg"
     },
     {
       "id": 1022,
@@ -232,7 +232,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Joldia",
-      "image": "http://localhost:4000/roer_forstaerkere/jolida_JD300b.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//roer_forstaerkere/jolida_JD300b.jpg"
     },
     {
       "id": 1023,
@@ -242,7 +242,7 @@
       "items_in_stock": 2,
       "color": "white",
       "brand": "Joldia",
-      "image": "http://localhost:4000/roer_forstaerkere/jolida_JD302b.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//roer_forstaerkere/jolida_JD302b.jpg"
     },
     {
       "id": 1024,
@@ -252,7 +252,7 @@
       "items_in_stock": 2,
       "color": "white",
       "brand": "Joldia",
-      "image": "http://localhost:4000//roer_forstaerkere/jolida_JD502b.jpg"
+      "image": "https://hifi-api-uytm.onrender.com///roer_forstaerkere/jolida_JD502b.jpg"
     },
     {
       "id": 1025,
@@ -262,7 +262,7 @@
       "items_in_stock": 2,
       "color": "black",
       "brand": "Manley",
-      "image": "http://localhost:4000/effektforstaerkere/manley_mahi.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//effektforstaerkere/manley_mahi.jpg"
     },
     {
       "id": 1026,
@@ -272,7 +272,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Manley",
-      "image": "http://localhost:4000/effektforstaerkere/manley_neoclassic300b.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//effektforstaerkere/manley_neoclassic300b.jpg"
     },
     {
       "id": 1027,
@@ -282,7 +282,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Manley",
-      "image": "http://localhost:4000/effektforstaerkere/manley_snapper.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//effektforstaerkere/manley_snapper.jpg"
     },
     {
       "id": 1028,
@@ -292,7 +292,7 @@
       "items_in_stock": 2,
       "color": "white",
       "brand": "Parasound",
-      "image": "http://localhost:4000/effektforstaerkere/parasound_haloa23.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//effektforstaerkere/parasound_haloa23.jpg"
     },
     {
       "id": 1029,
@@ -302,7 +302,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Creek",
-      "image": "http://localhost:4000/dvdafspillere/creek_classic.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//dvdafspillere/creek_classic.jpg"
     },
     {
       "id": 1030,
@@ -312,7 +312,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Exposure",
-      "image": "http://localhost:4000/dvdafspillere/exposure_2010S.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//dvdafspillere/exposure_2010S.jpg"
     },
     {
       "id": 1031,
@@ -322,7 +322,7 @@
       "items_in_stock": 2,
       "color": "black",
       "brand": "Parasound",
-      "image": "http://localhost:4000/dvdafspillere/parasound_d200.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//dvdafspillere/parasound_d200.jpg"
     },
     {
       "id": 1032,
@@ -332,7 +332,7 @@
       "items_in_stock": 2,
       "color": "white",
       "brand": "Parasound",
-      "image": "http://localhost:4000/dvdafspillere/parasound_halod3.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//dvdafspillere/parasound_halod3.jpg"
     },
     {
       "id": 1033,
@@ -342,7 +342,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Creek",
-      "image": "http://localhost:4000/cd_afspillere/creek_classic_cd.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//cd_afspillere/creek_classic_cd.jpg"
     },
     {
       "id": 1034,
@@ -352,7 +352,7 @@
       "items_in_stock": 2,
       "color": "black",
       "brand": "Creek",
-      "image": "http://localhost:4000/cd_afspillere/creek_Destiny_CD.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//cd_afspillere/creek_Destiny_CD.jpg"
     },
     {
       "id": 1035,
@@ -362,7 +362,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Creek",
-      "image": "http://localhost:4000/cd_afspillere/creek_evo_cd.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//cd_afspillere/creek_evo_cd.jpg"
     },
     {
       "id": 1036,
@@ -372,7 +372,7 @@
       "items_in_stock": 2,
       "color": "silver",
       "brand": "Exp",
-      "image": "http://localhost:4000/cd_afspillere/Exp_2010S_CD.gif"
+      "image": "https://hifi-api-uytm.onrender.com//cd_afspillere/Exp_2010S_CD.gif"
     }
   ],
   "history": [
@@ -380,25 +380,25 @@
       "title": "History",
       "text": "Established in the late 1960s, our family owned business is based in Edinburgh and Falkirk, but services customers across the UK.",
       "subtext": "Our Edinburgh branch has the longest history as an audio retailer in the UK. During recent renovations, receipts were found from Nicolson’s Gramophone Saloon dating back to 1926. In the 1950s WG Graham took over the shop and renamed it WG Graham’s HiFi Corner.Upon his retirement, Graham Tiso bought the business and modernized the name to HiFi Horizon. Soon thereafter a young enthusiastic Colin MacKenzie (left), who was recommended by Linn’s own Ivor Tiefenbrun, was employed to manage the shop; with a knack for business and years of experience in the hi-fi industry, Colin would later become the owner of HiFi Horizon. Today, Struan MacKenzie carries on the legacy as the company’s Managing Director. ",
-      "image": "http://localhost:4000/history/history.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//history/history.jpg"
     },
     {
       "title": "Hear The Difference",
       "text": "Book a demonstration at our Edinburgh or Falkirk showrooms.",
       "subtext": "Would you choose a quality car without a test drive? If you are familiar with the brand and have great trust in it, you might. However, our listening preferences are unique to the individual and with many of our customers new to the world of high quality sound and vision, we encourage everyone to come in to demonstrate the products they are interested in. You’ll find a relaxing and comfortable environment in both our Edinburgh and Falkirk premises where you can decide for yourself if the kit is right for you. We also offer home demonstrations on selected products. It's our aim to get the right product for you. Our experts are on hand to guide you through the differences between speakers, amplifiers and sources and provide simple solutions that suit your needs.",
-      "image": "http://localhost:4000/history/difference.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//history/difference.jpg"
     },
     {
       "title": "Services",
       "text": "Our passion for the products we sell and, for our customers’ satisfaction simply means that we happily offer additional services not found on the high-street.",
       "subtext": "Home Setup - We want to ensure that the equipment you’ve purchased from us is installed correctly and sounds perfect; and we happily provide this service throughout the UK. Part Exchange – To help you upgrade your system, we offer our part-exchange program. We can offer a set price, or sell your old kit on your behalf. Turntable Doctor – Our turntable experts have been trained by the manufacturers for initial setup, long-term maintenance, and upgrading your high quality turntables. Record Cleaning Service – Have some old records that need a bit of love? We offer Scotland’s very own professional record cleaning service with our bespoke Pro-Ject record cleaner.",
-      "image": "http://localhost:4000/history/services.jpg"
+      "image": "https://hifi-api-uytm.onrender.com//history/services.jpg"
     },
     {
       "title": "Tailored For You",
       "text": "We look forward to customising a system to meet your needs.",
       "subtext": "We don’t favour one manufacturer over another – the only thing we do favour is making sure our customers get the right product that suits their needs and listening preferences. We will ask many questions in order to ensure that what you buy from us is tailored to you and you alone. If you are looking for a product not found in our demonstration showrooms or our online site, don’t fret as we have access to hundreds of brands. One of our biggest pleasures of working in this industry is to see the smile on our customers’ faces when they finally hear and see the system of their dreams.",
-      "image": "http://localhost:4000/history/tailored.png"
+      "image": "https://hifi-api-uytm.onrender.com//history/tailored.png"
     }
   ],
   "newsletter":[]
