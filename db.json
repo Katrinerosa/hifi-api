@@ -37,7 +37,7 @@
     {
       "id": 1003,
       "name": "harbeth hl7es2",
-      "category": "højttaler",
+      "category": "hojttaler",
       "price": 100,
       "items_in_stock": 2,
       "color": "wood",
@@ -47,7 +47,7 @@
     {
       "id": 1004,
       "name": "harbeth monitor 30",
-      "category": "højttaler",
+      "category": "hojttaler",
       "price": 100,
       "items_in_stock": 2,
       "color": "wood",
@@ -157,7 +157,7 @@
     {
       "id": 1015,
       "name": "Creek a50i",
-      "category": "intforstærker",
+      "category": "intforstaerker",
       "price": 100,
       "items_in_stock": 2,
       "color": "silver",
